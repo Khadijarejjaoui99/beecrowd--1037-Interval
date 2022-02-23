@@ -1,4 +1,4 @@
-// solution of 1037 Interval problem in beecrowd
+// solution of 1037 Interval problem using c++ from beecrowd website
 #include <iostream>
 using namespace std;
  
